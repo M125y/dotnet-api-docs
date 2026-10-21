@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//IETF//datatracker.ietf.org ical agenda//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:schc - Static Context Header Compression (no agenda items for toda
+ y's meeting)
+DTSTART:20261013T130000Z
+DTEND:20261013T140000Z
+DTSTAMP:20260901T125010Z
+UID:ietf-interim-2026-schc-14-20606-schc
+CLASS:PUBLIC
+DESCRIPTION:\n\nNote: no agenda items for today's meeting\n\nRemote instru
+ ctions: https://meetings.conf.meetecho.com/interim/?session=35876\n\nSessi
+ on materials: https://datatracker.ietf.org/meeting/interim-2026-schc-14/se
+ ssion/schc\n\nAgenda https://datatracker.ietf.org/meeting/interim-2026-sch
+ c-14/materials/agenda-interim-2026-schc-14-schc-01
+STATUS:CANCELLED
+URL:https://datatracker.ietf.org/meeting/interim-2026-schc-14/session/schc
+X-MEETING-TZ:Europe/Paris
+END:VEVENT
+END:VCALENDAR
